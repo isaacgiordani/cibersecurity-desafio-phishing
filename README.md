@@ -4,6 +4,15 @@
     <span> Phishing para captura de senhas do Facebook</span>
 </h1>
 
+## Tecnologias
+<a href="https://www.kali.org/">
+    <img src="https://img.shields.io/badge/OS-Kali%20Linux-blue.svg" alt="Kali Linux">
+</a>
+
+<a href="https://github.com/rapid7/metasploit-framework">
+    <img src="https://img.shields.io/badge/Tool-Kali%20Tools-yellow.svg" alt="Kali Tools">
+</a>
+
 ## Sobre o Projeto
 Este repositório contém um tutorial prático para realizar um ataque de **phishing** com o uso do **Kali Linux** e ferramentas associadas. O objetivo do projeto é aprender como funcionam ataques de **engenharia social**, como o phishing, e aplicar o conhecimento adquirido em segurança cibernética de forma ética.
 **Aviso importante**: Este projeto deve ser utilizado para fins **educativos** apenas. **Nunca utilize para ataques reais sem permissão explícita**, pois isso é ilegal e antiético.
@@ -29,12 +38,3 @@ Para realizar esse ataque de phishing, utilizaremos as seguintes ferramentas:
 
 ![Alt text](./facebook.png "Facebook")
 ![Alt text](./passwd.png "Passwd")
-
-## Tecnologias
-<a href="https://www.kali.org/">
-    <img src="https://img.shields.io/badge/OS-Kali%20Linux-blue.svg" alt="Kali Linux">
-</a>
-
-<a href="https://github.com/rapid7/metasploit-framework">
-    <img src="https://img.shields.io/badge/Tool-Kali%20Tools-yellow.svg" alt="Kali Tools">
-</a>
